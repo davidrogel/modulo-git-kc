@@ -2,4 +2,4 @@
 
 La historia de un hacker excepcional.
 
-**David Rogel**
+**David Rogel**, Git lover.
